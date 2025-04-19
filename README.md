@@ -31,11 +31,11 @@ db.stats()
 
 neo4js
 
-Otwórz przeglądarkę:
-http://localhost:7474
+Otwórz przeglądarkę
+http://localhost:7474 powinno pójść, poprzednia wersja nie była git jednak xd
 
 Zaloguj się:
-Login: user
+Login: neo4j
 Hasło: strongpassword1234
 
 ```cypher
