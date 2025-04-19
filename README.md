@@ -28,6 +28,13 @@ docker exec -it mongo_db mongosh $MONGO_URI/$MONGO_DB
 db.stats()
 
 ```
+uwaga pamietajcie ze tylko neo ma interfejs graficzny!
+
+a porty są tak obciążone
+PostgreSQL: localhost:5432
+MongoDB: localhost:27017
+Neo4j: localhost:7474 (HTTP), localhost:7687 (Bolt)
+Redis: localhost:6379
 
 neo4js
 
